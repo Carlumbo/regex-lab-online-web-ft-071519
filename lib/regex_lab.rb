@@ -1,4 +1,4 @@
-def starts_with_a_vowel?(match)
+def starts_with_a_vowel?(word)
   word.scan(/[aeiou]/)
 
 end
